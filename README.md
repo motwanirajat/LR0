@@ -24,7 +24,7 @@ If you wish to input a grammar with epsilon production, please use the symbol ti
 Eg. S->~<br />
 3 input files are provided to give you some idea about the input format.<br />
 Please make sure that the entire source code is present in the same package.
-IMPORTANT: 
-Enter input file path, before you execute the program. @ LR0_Auto.JAVA/Line-46
+IMPORTANT: <br/>
+Enter input file path, before you execute the program. @ LR0_Auto.JAVA/Line-46<br/>
 If you wish to get the Automata in graphical form uncomment the following line. LR0_Auto.JAVA/Line-249
 
