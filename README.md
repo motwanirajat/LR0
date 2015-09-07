@@ -23,5 +23,5 @@ LHS->RHS #RULE2<br />
 If you wish to input a grammar with epsilon production, please use the symbol tilde (~).<br />
 Eg. S->~<br />
 
-3 input files are provided to give you any idea about input format.
+3 input files are provided to give you some idea about the input format.
 
