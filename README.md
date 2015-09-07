@@ -27,4 +27,5 @@ Please make sure that the entire source code is present in the same package.<br/
 IMPORTANT: <br/>
 Enter input file path, before you execute the program. @ LR0_Auto.JAVA/Line-46<br/>
 If you wish to get the Automata in graphical form uncomment the following line. LR0_Auto.JAVA/Line-249<br/>
+feel free to mail me : motwanirajat [at] gmail  [dot] com
 
