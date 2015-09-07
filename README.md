@@ -18,6 +18,7 @@ LHS->RHS #RULE2<br />
 .<br />
 .<br />
 .<br />
+-----------EOF------------<br />
 
 If you wish to input a grammar with epsilon production, please use the symbol tilde (~).<br />
 Eg. S->~<br />
