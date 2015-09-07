@@ -10,7 +10,7 @@ A Java code to design a LR0(SLR) Automaton for a give Context Free Grammar. Befo
 Input Instructions:
 > This program accepts input from a standard file. Please maintain the following format to avoid any exceptions or errors.<br />
 
-------------input.txt--------------------------------<br />
+------------input.txt--------<br />
 No. of rules to be input to the program<br />
 LHS->RHS #Rule1<br />
 LHS->RHS #RULE2<br />
