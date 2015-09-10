@@ -38,6 +38,7 @@ class draw extends Canvas
     {
         this.states=states;
         shapes = new ArrayList<>();
+        makeRecs();
     }
     
     public void makeRecs()
@@ -59,7 +60,7 @@ class draw extends Canvas
     public void paint(Graphics g) 
     {
         System.out.println("in paint");
-        makeRecs();
+        
         // step one of the recipe; cast Graphics object as Graphics2D
         Graphics2D g2d = (Graphics2D) g;
         
