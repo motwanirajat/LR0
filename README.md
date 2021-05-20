@@ -10,13 +10,13 @@ A Java code to design a LR0(SLR) Automaton for a given Context Free Grammar. Bef
 Input Instructions:
 > This program accepts input from a standard file. Please maintain the following format to avoid any exceptions or errors.<br />
 
-`
+
 ------------input.txt--------<br />
 No. of rules to be input to the program<br />
 LHS->RHS #Rule1<br />
 LHS->RHS #RULE2<br />
 ...
-`
+
 
 If you wish to input a grammar with epsilon production, please use the symbol tilde (~).<br />
 Eg. S->~<br />
